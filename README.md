@@ -1,2 +1,4 @@
 # Horn-and-Schunck
-Horn and Schunck optical flow estimation 
+
+
+An implementation of Horn and Schunck optical flow estimation algorithm in Python. 
